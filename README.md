@@ -32,8 +32,6 @@ delivery-time-prediction/
 ├── reports/
 │   └── Delivery Time Prediction Project Report.pdf
 │
-├── src/
-│   └── (Optional: scripts for cleaning, EDA, modeling)
 │
 └── README.md
 
